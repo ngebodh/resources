@@ -8,7 +8,10 @@ A collaborative list of resources for Computational Neuroscience
 
 * [Noise in the nervous system by A. Aldo Faisal et al](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/FaiSelWol08.pdf). Looks like a really interesting and has good explainations on understanding what noise actually is.
 
+* 
 
 ## Books 
 
 * [Mathematics for Machine Learning by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth](https://mml-book.github.io/book/mml-book.pdf)
+
+* [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf). See chapter 28 for Model Comparison and Occam’s Razor for model simplicity. 
