@@ -21,3 +21,8 @@ A collaborative list of resources for Computational Neuroscience
 * [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf). See chapter 28 for Model Comparison and Occam’s Razor for model simplicity. 
 
 * [Pattern Recognition and Machine Learning by Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+
+
+## Memes
+
+<img src="https://memegenerator.net/img/instances/26848932/occams-razor-the-simplest-explanation-is-almost-always-somebody-screwed-up.jpg" width="200" height="200" />
