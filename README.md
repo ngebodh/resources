@@ -12,6 +12,8 @@ A collaborative list of resources for Computational Neuroscience
 ### Modeling
 * [A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019). Steps on how to go about posing questions that models can answer. 
 
+* [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S089662731931044X)
+
 ## Books 
 
 * [Mathematics for Machine Learning by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth](https://mml-book.github.io/book/mml-book.pdf)
