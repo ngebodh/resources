@@ -10,6 +10,7 @@ A collaborative list of resources for Computational Neuroscience
 ### Noise
 * [Noise in the nervous system by A. Aldo Faisal et al](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/FaiSelWol08.pdf). Looks like a really interesting and has good explainations on understanding what noise actually is.
 
+
 ### Modeling
 * [A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019). Steps on how to go about posing questions that models can answer. 
 
@@ -36,6 +37,13 @@ A collaborative list of resources for Computational Neuroscience
 
 * [Pattern Recognition and Machine Learning by Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
+## Datasets
+
+* A list of open [datasets](https://github.com/openlists/ElectrophysiologyData) that span EEG, MEG, ECoG, and LFP. 
+
+* A large list of [BCI resources](https://github.com/NeuroTechX/awesome-bci#brain-databases) including datasets, tutorials, papers, books etc. 
+
+* The [TUH EEG Corpus](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml), a list of several EEG dataset with several resources. Requies filling out form to download the data.  
 
 ## Memes
 
