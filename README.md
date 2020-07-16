@@ -16,6 +16,11 @@ A collaborative list of resources for Computational Neuroscience
 
 
 ### Modeling
+
+* A guide for applying [Machine learning for neural decoding](https://arxiv.org/ftp/arxiv/papers/1708/1708.00909.pdf). 
+>> Description: This	 tutorial	 describes	 how	 to effectively	 apply	 these	 algorithms	 for	 typical	 decoding	 problems.	 We	 provide	 descriptions,	 best practices,	and	code	for	applying	common	machine	learning	methods,	including	neural	networks	and	gradient	boosting.	We	also	provide	detailed	comparisons	of	the	performance	of	various	methods	at the	 task	 of	 decoding	 spiking	 activity	 in	 motor	 cortex,	 somatosensory	 cortex,	 and	 hippocampus.
+
+
 * [A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019). Steps on how to go about posing questions that models can answer. 
 
 * [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S089662731931044X)
