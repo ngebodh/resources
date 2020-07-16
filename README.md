@@ -45,6 +45,8 @@ A collaborative list of resources for Computational Neuroscience
 
 * [Theoretical Neuroscience](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf) by Dayan and Abbott.
 
+* [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/vmls.pdf) by Boyd and Vandenberghe.
+
 ## Datasets
 
 * A list of open [datasets](https://github.com/openlists/ElectrophysiologyData) that span EEG, MEG, ECoG, and LFP. 
