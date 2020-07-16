@@ -16,6 +16,8 @@ A collaborative list of resources for Computational Neuroscience
 
 * [Direct Fit to Nature: An Evolutionary Perspective on Biological and Artificial Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S089662731931044X)
 
+* Preprint on [Neural Network Poisson Models for Behavioural and Neural Spike Train Data](https://www.biorxiv.org/content/10.1101/2020.07.13.201673v1.abstract) by Dayan's group. 
+
 * Maximum likelihood estimation for neural data [slide deck](http://pillowlab.princeton.edu/teaching/statneuro2018/slides/slides07_encodingmodels.pdf) by Jonathan Pillow. A walk through of the concept and derivation.
 
 
@@ -37,6 +39,8 @@ A collaborative list of resources for Computational Neuroscience
 
 * [Pattern Recognition and Machine Learning by Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
+* [Theoretical Neuroscience](http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf) by Dayan and Abbott.
+
 ## Datasets
 
 * A list of open [datasets](https://github.com/openlists/ElectrophysiologyData) that span EEG, MEG, ECoG, and LFP. 
@@ -47,6 +51,12 @@ A collaborative list of resources for Computational Neuroscience
 
 * [Project Tycho named after Tycho Brache](). The project aims to share reliable massive neural and behavioral data for understanding brain mechanism.
 >>**[Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe)** was a Danish nobleman, astronomer, and writer known for his accurate and comprehensive astronomical observations. He was born in the then Danish peninsula of Scania. Tycho was well known in his lifetime as an astronomer, astrologer, and alchemist.
+
+## Videos
+
+* [Gradients of Brain Organization Workshop](https://www.mcgill.ca/neuro/channels/event/virtual-gradients-brain-organization-workshop-zoom-302746). 
+>> Description: Recent years have seen a rise of new methods and applications to study smooth spatial transitions — or gradients — of brain organization. Identification and analysis of cortical gradients provides a framework to study brain organization across species, to examine changes in brain development and aging, and to more generally study the interrelation between brain structure, function and cognition. We will bring together outstanding junior and senior scientists to discuss the challenges and opportunities afforded by this emerging perspective.
+
 
 ## Memes
 
