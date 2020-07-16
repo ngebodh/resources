@@ -18,6 +18,9 @@ A collaborative list of resources for Computational Neuroscience
 * [Slide deck](http://pillowlab.princeton.edu/teaching/statneuro2018/slides/slides07_encodingmodels.pdf) on maximum likelihood estimation for neural data by Jonathan Pillow
 
 
+#### Optimization
+* BOOK:[Resources by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/) covering convex optimization and appproaches.
+
 ### Machine Learning 
 
 * [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849)
