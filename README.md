@@ -20,7 +20,7 @@ A collaborative list of resources for Computational Neuroscience
 
 
 #### Optimization
-* BOOK:[Resources by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/) covering convex optimization and appproaches.
+* **BOOK**: [Resources by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/) covering convex optimization and appproaches.
 
 ### Machine Learning 
 
@@ -44,6 +44,9 @@ A collaborative list of resources for Computational Neuroscience
 * A large list of [BCI resources](https://github.com/NeuroTechX/awesome-bci#brain-databases) including datasets, tutorials, papers, books etc. 
 
 * The [TUH EEG Corpus](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml), a list of several EEG dataset with several resources. Requies filling out form to download the data.  
+
+* [Project Tycho named after Tycho Brache](). The project aims to share reliable massive neural and behavioral data for understanding brain mechanism.
+>>**[Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe)** was a Danish nobleman, astronomer, and writer known for his accurate and comprehensive astronomical observations. He was born in the then Danish peninsula of Scania. Tycho was well known in his lifetime as an astronomer, astrologer, and alchemist.
 
 ## Memes
 
