@@ -4,6 +4,7 @@ A collaborative list of resources for Computational Neuroscience
 
 ## Interesting Papers:
 
+
 ### Brain Oscillations
 * Traveling waves in the brain and understanding their propagation. Seems to focus on alpha (10 Hz). [The Hidden Spatial Dimension of Alpha: 10-Hz Perceptual Echoes Propagate as Periodic Traveling Waves in the Human Brain](https://www.cell.com/cell-reports/fulltext/S2211-1247(18)32003-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124718320035%3Fshowall%3Dtrue)
 
@@ -11,9 +12,18 @@ A collaborative list of resources for Computational Neuroscience
 * [Noise in the nervous system by A. Aldo Faisal et al](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/FaiSelWol08.pdf). Looks like a really interesting and has good explainations on understanding what noise actually is.
 
 ### Entropy
-
 * [Entropy explained](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800) with some python implimentation.
 
+### Dimensionality
+* [Towards the neural population doctrine](https://stat.columbia.edu/~cunningham/pdf/SaxenaCONB2019.pdf)
+>> We detail four areas of the field where the joint analysis of neural populations has significantly furthered our understanding of computation in the brain: correlated variability, decoding, neural dynamics, and artificial neural networks.
+
+* [Perform non-linear dimensionality reduction with Isomap and LLE in Python from scratch](https://towardsdatascience.com/step-by-step-signal-processing-with-machine-learning-manifold-learning-8e1bb192461c)
+
+* [Isomap tutorial](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
+
+* [A Global Geometric Framework for Nonlinear Dimensionality Reduction](https://science.sciencemag.org/content/290/5500/2319)
+>> Here we describe an approach to solving dimensionality reduction problems that uses easily measured local metric information to learn the underlying global geometry of a data set. Unlike classical techniques such as principal component analysis (PCA) and multidimensional scaling (MDS), our approach is capable of discovering the nonlinear degrees of freedom that underlie complex natural observations, such as human handwriting or images of a face under different viewing conditions. In contrast to previous algorithms for nonlinear dimensionality reduction, ours efficiently computes a globally optimal solution, and, for an important class of data manifolds, is guaranteed to converge asymptotically to the true structure.
 
 ### Modeling
 
