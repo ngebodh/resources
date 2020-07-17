@@ -22,6 +22,12 @@ A collaborative list of resources for Computational Neuroscience
 
 * [Isomap tutorial](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
 
+* Looking at different non-linear dimensionality reductions methods: [Iterative Non-linear Dimensionality Reduction with Manifold Sculpting.](https://papers.nips.cc/paper/3241-iterative-non-linear-dimensionality-reduction-with-manifold-sculpting.pdf)
+>> Many algorithms have been recently developed for reducing dimensionality by projecting data onto an intrinsic non-linear manifold. Unfortunately, existing algorithms often lose significant precision in this transformation. Manifold Sculpting is a new algorithm that iteratively reduces dimensionality by simulating surface tension in local neighborhoods. We present several experiments that show Manifold Sculpting yields more accurate results than existing algorithms with both generated and natural data-sets. Manifold Sculpting is also able to benefit from both prior dimensionality reduction efforts.
+
+* Using manifolds/ dimensionality reduction on sleep data. [The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep](https://www.nature.com/articles/s41593-019-0460-x)
+>> We characterize and directly visualize manifold structure in the mammalian head direction circuit, revealing that the states form a topologically nontrivial one-dimensional ring. The ring exhibits isometry and is invariant across waking and rapid eye movement sleep. This result directly demonstrates that there are continuous attractor dynamics and enables powerful inference about mechanism. 
+
 * [A Global Geometric Framework for Nonlinear Dimensionality Reduction](https://science.sciencemag.org/content/290/5500/2319)
 >> Here we describe an approach to solving dimensionality reduction problems that uses easily measured local metric information to learn the underlying global geometry of a data set. Unlike classical techniques such as principal component analysis (PCA) and multidimensional scaling (MDS), our approach is capable of discovering the nonlinear degrees of freedom that underlie complex natural observations, such as human handwriting or images of a face under different viewing conditions. In contrast to previous algorithms for nonlinear dimensionality reduction, ours efficiently computes a globally optimal solution, and, for an important class of data manifolds, is guaranteed to converge asymptotically to the true structure.
 
