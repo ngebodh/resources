@@ -2,7 +2,7 @@
 A collaborative list of resources for Computational Neuroscience
 
 
-## Interesting Papers:
+## Interesting Papers/ Articles/ Blog Posts:
 
 
 ### Brain Oscillations
