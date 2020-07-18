@@ -2,15 +2,19 @@
 A collaborative list of resources for Computational Neuroscience
 
 
+
+
+
+
 ## Interesting Papers/ Articles/ Blog Posts:
-
-
 
 
 
 ### Information Theory
 
+
 * Foundational paper in the field of information theory by Claude Shannon in 1948 [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf). Might be helpful to [watch this video by Kan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/a-mathematical-theory-of-communication) describing the work (from Markov Chain perspective) before diving into the paper. 
+
   <details>
   <summary> Details!  </summary>
   
@@ -23,6 +27,7 @@ A collaborative list of resources for Computational Neuroscience
     * A destination, which can be a person or a machine, for whom or which the message is intended
 
   </details>
+  
 
 
 
@@ -64,6 +69,12 @@ A collaborative list of resources for Computational Neuroscience
   </details>
 
 #### _*Non-Linear Dimensionality Reduction*_
+* [Using t-SNE](https://distill.pub/2016/misread-tsne/). An interactive guide on how to use t-SNE effectively
+  <details>
+    <summary> Details!  </summary>
+    Although extremely useful for visualizing high-dimensional data, t-SNE plots can sometimes be mysterious or misleading. By exploring how it behaves in simple cases, we can learn to use it more effectively.
+  </details>
+
 * [Perform non-linear dimensionality reduction with Isomap and LLE in Python from scratch](https://towardsdatascience.com/step-by-step-signal-processing-with-machine-learning-manifold-learning-8e1bb192461c)
 
 * [Isomap tutorial in Python](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
