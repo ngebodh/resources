@@ -55,6 +55,13 @@ A collaborative list of resources for Computational Neuroscience
 
   </details>
 
+* [SVD and PCA explained](https://www.cns.nyu.edu/~david/handouts/svd.pdf). Handout walking through the math behind both and a few other topics (regression,covariance etc.). 
+  <details>
+    <summary> Details!  </summary>
+
+    This handout is a review of some basic concepts in linear algebra. For a detailed introduction, consult a linear algebra text. Linear Algebra and its Applications by Gilbert Strang (Harcourt, Brace, Jovanovich, 1988) is excellent.
+
+  </details>
 
 #### _*Non-Linear Dimensionality Reduction*_
 * [Perform non-linear dimensionality reduction with Isomap and LLE in Python from scratch](https://towardsdatascience.com/step-by-step-signal-processing-with-machine-learning-manifold-learning-8e1bb192461c)
