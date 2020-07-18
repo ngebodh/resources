@@ -25,6 +25,8 @@ A collaborative list of resources for Computational Neuroscience
     * A channel, which is the medium over which the signal, carrying the information that composes the message, is sent
     * A receiver, which transforms the signal back into the message intended for delivery
     * A destination, which can be a person or a machine, for whom or which the message is intended
+    
+    [More on Shannon](https://thebitplayer.com/#more-information) and his contributions to the world of Computer sci, entropy, info theory, signal detection etc.
 
   </details>
   
