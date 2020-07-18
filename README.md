@@ -30,9 +30,12 @@ A collaborative list of resources for Computational Neuroscience
 
   </details>
   
-
-
-
+* Ian Goodfellow's (developed GANs) [Book Chapter](https://www.deeplearningbook.org/contents/prob.html) on Information Theory from a Deep Learning Perspective
+  <details>
+  <summary> Details!  </summary>
+  
+  Goodfellow is best known for inventing **generative adversarial networks (GANs)**. He is also the lead author of the textbook Deep Learning. At Google, he developed a system enabling Google Maps to automatically transcribe addresses from photos taken by Street View cars and demonstrated security vulnerabilities of machine learning systems.
+  </details>
 
 
 
