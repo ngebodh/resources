@@ -6,7 +6,7 @@ A collaborative list of resources for Computational Neuroscience
 
 ### Information Theory
 
-* Foundational paper in the field of information theory by Claude Shannon in 1948 [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+* Foundational paper in the field of information theory by Claude Shannon in 1948 [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf). Might be helpful to [watch this video by Kan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/a-mathematical-theory-of-communication) describing the work (from Markov Chain perspective) before diving into the paper. 
 >>This work developed the concepts of information entropy and redundancy, and introduced the term bit (which Shannon credited to John Tukey) as a unit of information. It was also in this paper that the Shannon–Fano coding technique was proposed – a technique developed in conjunction with Robert Fano. <br>
 Shannon's article laid out the basic elements of communication:
 >> * An information source that produces a message
