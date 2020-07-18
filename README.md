@@ -4,15 +4,26 @@ A collaborative list of resources for Computational Neuroscience
 
 ## Interesting Papers/ Articles/ Blog Posts:
 
+### Information Theory
 
-### Brain Oscillations
-* Traveling waves in the brain and understanding their propagation. Seems to focus on alpha (10 Hz). [The Hidden Spatial Dimension of Alpha: 10-Hz Perceptual Echoes Propagate as Periodic Traveling Waves in the Human Brain](https://www.cell.com/cell-reports/fulltext/S2211-1247(18)32003-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124718320035%3Fshowall%3Dtrue)
+* Foundational paper in the field of information theory by Claude Shannon in 1948 [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+>>This work developed the concepts of information entropy and redundancy, and introduced the term bit (which Shannon credited to John Tukey) as a unit of information. It was also in this paper that the Shannon–Fano coding technique was proposed – a technique developed in conjunction with Robert Fano. <br>
+Shannon's article laid out the basic elements of communication:
+>> * An information source that produces a message
+>> * A transmitter that operates on the message to create a signal which can be sent through a channel
+>> * A channel, which is the medium over which the signal, carrying the information that composes the message, is sent
+>> * A receiver, which transforms the signal back into the message intended for delivery
+>> * A destination, which can be a person or a machine, for whom or which the message is intended
+
+### Entropy
+* [Entropy explained](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800) with some python implimentation.
 
 ### Noise
 * [Noise in the nervous system by A. Aldo Faisal et al](http://learning.eng.cam.ac.uk/pub/Public/Wolpert/Publications/FaiSelWol08.pdf). Looks like a really interesting and has good explainations on understanding what noise actually is.
 
-### Entropy
-* [Entropy explained](https://towardsdatascience.com/the-intuition-behind-shannons-entropy-e74820fe9800) with some python implimentation.
+### Brain Oscillations
+* Traveling waves in the brain and understanding their propagation. Seems to focus on alpha (10 Hz). [The Hidden Spatial Dimension of Alpha: 10-Hz Perceptual Echoes Propagate as Periodic Traveling Waves in the Human Brain](https://www.cell.com/cell-reports/fulltext/S2211-1247(18)32003-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124718320035%3Fshowall%3Dtrue)
+
 
 ### Dimensionality
 * [Towards the neural population doctrine](https://stat.columbia.edu/~cunningham/pdf/SaxenaCONB2019.pdf)
@@ -52,7 +63,6 @@ A collaborative list of resources for Computational Neuroscience
 ### Machine Learning 
 
 * [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849)
-
 
 
 
