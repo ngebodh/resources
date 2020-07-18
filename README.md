@@ -11,18 +11,20 @@ A collaborative list of resources for Computational Neuroscience
 ### Information Theory
 
 * Foundational paper in the field of information theory by Claude Shannon in 1948 [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf). Might be helpful to [watch this video by Kan Academy](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/a-mathematical-theory-of-communication) describing the work (from Markov Chain perspective) before diving into the paper. 
-<details>
+  <details>
   <summary> Details!  </summary>
   
->>This work developed the concepts of information entropy and redundancy, and introduced the term bit (which Shannon credited to John Tukey) as a unit of information. It was also in this paper that the Shannon–Fano coding technique was proposed – a technique developed in conjunction with Robert Fano. <br>
-Shannon's article laid out the basic elements of communication:
->> * An information source that produces a message
->> * A transmitter that operates on the message to create a signal which can be sent through a channel
->> * A channel, which is the medium over which the signal, carrying the information that composes the message, is sent
->> * A receiver, which transforms the signal back into the message intended for delivery
->> * A destination, which can be a person or a machine, for whom or which the message is intended
+    This work developed the concepts of information entropy and redundancy, and introduced the term bit (which Shannon credited to John Tukey) as a unit of information. It was also in this paper that the Shannon–Fano coding technique was proposed – a technique developed in conjunction with Robert Fano. <br>
+    Shannon's article laid out the basic elements of communication:
+    * An information source that produces a message
+    * A transmitter that operates on the message to create a signal which can be sent through a channel
+    * A channel, which is the medium over which the signal, carrying the information that composes the message, is sent
+    * A receiver, which transforms the signal back into the message intended for delivery
+    * A destination, which can be a person or a machine, for whom or which the message is intended
 
-</details>
+  </details>
+
+
 
 
 
@@ -46,12 +48,12 @@ Shannon's article laid out the basic elements of communication:
 ### Dimensionality
 #### _*General Dimnesionality*_
 * [Towards the neural population doctrine](https://stat.columbia.edu/~cunningham/pdf/SaxenaCONB2019.pdf)
-<details>
-  <summary> Details!  </summary>
-  
->> We detail four areas of the field where the joint analysis of neural populations has significantly furthered our understanding of computation in the brain: correlated variability, decoding, neural dynamics, and artificial neural networks.
+  <details>
+    <summary> Details!  </summary>
 
-</details>
+    We detail four areas of the field where the joint analysis of neural populations has significantly furthered our understanding of computation in the brain: correlated variability, decoding, neural dynamics, and artificial neural networks.
+
+  </details>
 
 
 #### _*Non-Linear Dimensionality Reduction*_
@@ -60,25 +62,25 @@ Shannon's article laid out the basic elements of communication:
 * [Isomap tutorial in Python](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
 
 * Looking at different non-linear dimensionality reductions methods: [Iterative Non-linear Dimensionality Reduction with Manifold Sculpting.](https://papers.nips.cc/paper/3241-iterative-non-linear-dimensionality-reduction-with-manifold-sculpting.pdf)
-<details>
-  <summary> Details!  </summary>
-  
->> Many algorithms have been recently developed for reducing dimensionality by projecting data onto an intrinsic non-linear manifold. Unfortunately, existing algorithms often lose significant precision in this transformation. Manifold Sculpting is a new algorithm that iteratively reduces dimensionality by simulating surface tension in local neighborhoods. We present several experiments that show Manifold Sculpting yields more accurate results than existing algorithms with both generated and natural data-sets. Manifold Sculpting is also able to benefit from both prior dimensionality reduction efforts.
-</details>
+  <details>
+    <summary> Details!  </summary>
+
+    Many algorithms have been recently developed for reducing dimensionality by projecting data onto an intrinsic non-linear manifold. Unfortunately, existing algorithms often lose significant precision in this transformation. Manifold Sculpting is a new algorithm that iteratively reduces dimensionality by simulating surface tension in local neighborhoods. We present several experiments that show Manifold Sculpting yields more accurate results than existing algorithms with both generated and natural data-sets. Manifold Sculpting is also able to benefit from both prior dimensionality reduction efforts.
+  </details>
 
 * Using manifolds/ dimensionality reduction on sleep data. [The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep](https://www.nature.com/articles/s41593-019-0460-x)
-<details>
-  <summary> Details!  </summary>
-  
->> We characterize and directly visualize manifold structure in the mammalian head direction circuit, revealing that the states form a topologically nontrivial one-dimensional ring. The ring exhibits isometry and is invariant across waking and rapid eye movement sleep. This result directly demonstrates that there are continuous attractor dynamics and enables powerful inference about mechanism. 
-</details>
+  <details>
+    <summary> Details!  </summary>
+
+    We characterize and directly visualize manifold structure in the mammalian head direction circuit, revealing that the states form a topologically nontrivial one-dimensional ring. The ring exhibits isometry and is invariant across waking and rapid eye movement sleep. This result directly demonstrates that there are continuous attractor dynamics and enables powerful inference about mechanism. 
+  </details>
 
 * [A Global Geometric Framework for Nonlinear Dimensionality Reduction](https://science.sciencemag.org/content/290/5500/2319)
-<details>
-  <summary> Details!  </summary>
+  <details>
+    <summary> Details!  </summary>
 
->> Here we describe an approach to solving dimensionality reduction problems that uses easily measured local metric information to learn the underlying global geometry of a data set. Unlike classical techniques such as principal component analysis (PCA) and multidimensional scaling (MDS), our approach is capable of discovering the nonlinear degrees of freedom that underlie complex natural observations, such as human handwriting or images of a face under different viewing conditions. In contrast to previous algorithms for nonlinear dimensionality reduction, ours efficiently computes a globally optimal solution, and, for an important class of data manifolds, is guaranteed to converge asymptotically to the true structure.
-</details>
+    Here we describe an approach to solving dimensionality reduction problems that uses easily measured local metric information to learn the underlying global geometry of a data set. Unlike classical techniques such as principal component analysis (PCA) and multidimensional scaling (MDS), our approach is capable of discovering the nonlinear degrees of freedom that underlie complex natural observations, such as human handwriting or images of a face under different viewing conditions. In contrast to previous algorithms for nonlinear dimensionality reduction, ours efficiently computes a globally optimal solution, and, for an important class of data manifolds, is guaranteed to converge asymptotically to the true structure.
+  </details>
 
 
 
@@ -87,11 +89,11 @@ Shannon's article laid out the basic elements of communication:
 ### Modeling
 #### _*General Modeling*_
 * A guide for applying [Machine learning for neural decoding](https://arxiv.org/ftp/arxiv/papers/1708/1708.00909.pdf). 
-<details>
-  <summary> Details!  </summary> 
-  
->> Description: This	 tutorial	 describes	 how	 to effectively	 apply	 these	 algorithms	 for	 typical	 decoding	 problems.	 We	 provide	 descriptions,	 best practices,	and	code	for	applying	common	machine	learning	methods,	including	neural	networks	and	gradient	boosting.	We	also	provide	detailed	comparisons	of	the	performance	of	various	methods	at the	 task	 of	 decoding	 spiking	 activity	 in	 motor	 cortex,	 somatosensory	 cortex,	 and	 hippocampus.
-</details>
+  <details>
+    <summary> Details!  </summary> 
+
+    Description: This	 tutorial	 describes	 how	 to effectively	 apply	 these	 algorithms	 for	 typical	 decoding	 problems.	 We	 provide	 descriptions,	 best practices,	and	code	for	applying	common	machine	learning	methods,	including	neural	networks	and	gradient	boosting.	We	also	provide	detailed	comparisons	of	the	performance	of	various	methods	at the	 task	 of	 decoding	 spiking	 activity	 in	 motor	 cortex,	 somatosensory	 cortex,	 and	 hippocampus.
+  </details>
 
 * [A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019). Steps on how to go about posing questions that models can answer. 
 
@@ -116,11 +118,11 @@ Shannon's article laid out the basic elements of communication:
 
 #### _*Autoencoders*_
 * Variational autoencoders used with dimensionality reduction. [VAE-SNE: a deep generative model for simultaneous dimensionality reduction and clustering](https://www.biorxiv.org/content/10.1101/2020.07.17.207993v1)
-<details>
-  <summary> Details!  </summary>  
-  
->>Description: We introduce a method for both dimension reduction and clustering called VAE-SNE (variational autoencoder stochastic neighbor embedding). Our model combines elements from deep learning, probabilistic inference, and manifold learning to produce interpretable compressed representations while also readily scaling to tens-of-millions of observations. Unlike existing methods, VAE-SNE simultaneously compresses high-dimensional data and automatically learns a distribution of clusters within the data --- without the need to manually select the number of clusters. This naturally creates a multi-scale representation, which makes it straightforward to generate coarse-grained descriptions for large subsets of related observations and select specific regions of interest for further analysis.
-</details>
+  <details>
+    <summary> Details!  </summary>  
+
+    Description: We introduce a method for both dimension reduction and clustering called VAE-SNE (variational autoencoder stochastic neighbor embedding). Our model combines elements from deep learning, probabilistic inference, and manifold learning to produce interpretable compressed representations while also readily scaling to tens-of-millions of observations. Unlike existing methods, VAE-SNE simultaneously compresses high-dimensional data and automatically learns a distribution of clusters within the data --- without the need to manually select the number of clusters. This naturally creates a multi-scale representation, which makes it straightforward to generate coarse-grained descriptions for large subsets of related observations and select specific regions of interest for further analysis.
+  </details>
 
 
 
@@ -155,11 +157,11 @@ Shannon's article laid out the basic elements of communication:
 * The [TUH EEG Corpus](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml), a list of several EEG dataset with several resources. Requies filling out form to download the data.  
 
 * [Project Tycho named after Tycho Brache](). The project aims to share reliable massive neural and behavioral data for understanding brain mechanism.
-<details>
-  <summary> Details!  </summary>  
-  
->>**[Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe)** was a Danish nobleman, astronomer, and writer known for his accurate and comprehensive astronomical observations. He was born in the then Danish peninsula of Scania. Tycho was well known in his lifetime as an astronomer, astrologer, and alchemist.
-</details>
+  <details>
+    <summary> Details!  </summary>  
+
+    **[Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe)** was a Danish nobleman, astronomer, and writer known for his accurate and comprehensive astronomical observations. He was born in the then Danish peninsula of Scania. Tycho was well known in his lifetime as an astronomer, astrologer, and alchemist.
+  </details>
 
 
 
@@ -170,12 +172,12 @@ Shannon's article laid out the basic elements of communication:
 
 * [Gradients of Brain Organization Workshop](https://www.mcgill.ca/neuro/channels/event/virtual-gradients-brain-organization-workshop-zoom-302746). 
 
-<details>
-  <summary> Details!  </summary>  
-  
->> Description: Recent years have seen a rise of new methods and applications to study smooth spatial transitions — or gradients — of brain organization. Identification and analysis of cortical gradients provides a framework to study brain organization across species, to examine changes in brain development and aging, and to more generally study the interrelation between brain structure, function and cognition. We will bring together outstanding junior and senior scientists to discuss the challenges and opportunities afforded by this emerging perspective.
+  <details>
+    <summary> Details!  </summary>  
 
-</details>
+    Description: Recent years have seen a rise of new methods and applications to study smooth spatial transitions — or gradients — of brain organization. Identification and analysis of cortical gradients provides a framework to study brain organization across species, to examine changes in brain development and aging, and to more generally study the interrelation between brain structure, function and cognition. We will bring together outstanding junior and senior scientists to discuss the challenges and opportunities afforded by this emerging perspective.
+
+  </details>
 
 
 
