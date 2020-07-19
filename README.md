@@ -204,8 +204,14 @@ A collaborative list of resources for Computational Neuroscience
   </details>
 
 
+## Jobs
+List of job boards that update often and have neuro related jobs. 
 
+* [Neuromodec](https://neuromodec.com/jobs/) gathers job in the fields of neuromodulation, engineering, neurosicence, and mental health. 
 
+* [Researchgate](https://www.researchgate.net/jobs?page=1&regions=) job board usualy jobs in academia around the world.
+
+* For vision and vision related jobs and posts (industry and academia) sign up for the [Vision List Mailing List](http://visionscience.com/mailman/listinfo/visionlist_visionscience.com). Note that the job board on their main site is not updated often but researchers do send out job notifications often through the mailing list. 
 
 
 ## Memes
