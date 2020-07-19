@@ -187,8 +187,9 @@ A collaborative list of resources for Computational Neuroscience
   </details>
 
 
+* [PhysioNet](https://physionet.org/) is a large database of different types of data and most can be easily downloaded.
 
-
+* [Open Neuro](https://openneuro.org/public/datasets/) an initiative to encourage the sharing of neuro data.
 
 
 ## Videos
