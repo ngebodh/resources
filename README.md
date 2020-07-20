@@ -131,6 +131,15 @@ A collaborative list of resources for Computational Neuroscience
 * **BOOK**: [Resources by Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/) covering convex optimization and appproaches.
 
 
+#### _*Bayesian Modeling*_
+
+* [Probabilistic population codes for Bayesian decision making](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2742921/)
+
+  <details>
+    <summary> Details!  </summary> 
+    We present a neural model of decision making that can perform both evidence accumulation and action selection optimally. More specifically, we show that, given a Poisson-like distribution of spike counts, biological neural networks can accumulate evidence without loss of information through linear integration of neural activity, and can select the most likely action through attractor dynamics. This holds for arbitrary correlations, any tuning curves, continuous and discrete variables, and sensory evidence whose reliability varies over time. Our model predicts that the neurons in the lateral intraparietal cortex involved in evidence accumulation encode, on every trial, a probability distribution which predicts the animal’s performance. 
+
+  </details>
 
 
 
