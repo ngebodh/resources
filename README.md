@@ -117,6 +117,15 @@ A collaborative list of resources for Computational Neuroscience
 
     Description: This	 tutorial	 describes	 how	 to effectively	 apply	 these	 algorithms	 for	 typical	 decoding	 problems.	 We	 provide	 descriptions,	 best practices,	and	code	for	applying	common	machine	learning	methods,	including	neural	networks	and	gradient	boosting.	We	also	provide	detailed	comparisons	of	the	performance	of	various	methods	at the	 task	 of	 decoding	 spiking	 activity	 in	 motor	 cortex,	 somatosensory	 cortex,	 and	 hippocampus.
   </details>
+  
+* [Stochastic dynamics as a principle of brain function](https://www.oxcns.org/papers/463_Deco+Rolls+09StochasticDynamics.pdf)
+  <details>
+    <summary> Details!  </summary> 
+
+    We show that in a finite-sized cortical attractor network, this can be an advantage, for it leads to probabilistic behavior that is advantageous in decision-making, by preventing deadlock, and is important in signal detectability. We show how computations can be performed through stochastic dynamical effects, including the role of noise in enabling probabilistic jumping across barriers in the energy landscape describing the flow of the dynamics in attractor networks. The results obtained in neurophysiological studies of decision-making and signal detectability are modelled by the stochastical neurodynamics of integrate-and-fire networks of neurons with probabilistic neuronal spiking. We describe how these stochastic neurodynamical effects can be analyzed, and their importance in many aspects of brain function, including decision-making, memory recall, short-term memory, and attention.
+  </details>
+
+
 
 * [A How-to-Model Guide for Neuroscience](https://www.eneuro.org/content/7/1/ENEURO.0352-19.2019). Steps on how to go about posing questions that models can answer. 
 
@@ -141,6 +150,13 @@ A collaborative list of resources for Computational Neuroscience
 
   </details>
 
+#### _**_ 
+
+
+
+
+
+
 #### _*Non/Linear Systems*_
 
 * [Nonlinear Dynamics and Chaos by Steven Strogatz](http://arslanranjha.weebly.com/uploads/4/8/9/3/4893701/nonlinear-dynamics-and-chaos-strogatz.pdf) applied to physics, bio, chem, and engineering. Recommended by Bingni Brutton and Maria Geffen. 
@@ -163,7 +179,9 @@ A collaborative list of resources for Computational Neuroscience
 
 
 
+## General Neuroscience
 
+* [Classic must-read neuroscience papers](https://www.sfn.org/about/history-of-neuroscience/classic-papers#Learning) suggested by SfN (Society for Neuroscience). Broken down by topic. 
 
 
 
