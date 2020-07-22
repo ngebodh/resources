@@ -141,8 +141,13 @@ A collaborative list of resources for Computational Neuroscience
 
   </details>
 
+#### _*Non/Linear Systems*_
 
+* [Nonlinear Dynamics and Chaos by Steven Strogatz](http://arslanranjha.weebly.com/uploads/4/8/9/3/4893701/nonlinear-dynamics-and-chaos-strogatz.pdf) applied to physics, bio, chem, and engineering. Recommended by Bingni Brutton and Maria Geffen. 
 
+* A [video lecture series](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) by Steven Strongatz on Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering
+
+* A [video lecture series](https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz) by Liz Bradley on Nonlinear Dynamics: Mathematical and Computational Approaches. [Course page.](https://www.complexityexplorer.org/courses/94-nonlinear-dynamics-mathematical-and-computational-approaches-winter-spring-2019)
 
 ### Machine Learning 
 #### _*General Machine Learning*_
