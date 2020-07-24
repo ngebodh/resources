@@ -221,7 +221,7 @@ A collaborative list of resources for Computational Neuroscience
 
 * [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/vmls.pdf) by Boyd and Vandenberghe.
 
-
+* [Reinforcement Learning by Sutton and Barto](http://incompleteideas.net/book/RLbook2020.pdf) is the main book on reinforcement learning that takes a deep dive into the topic.
 
 
 
