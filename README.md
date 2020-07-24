@@ -171,6 +171,23 @@ A collaborative list of resources for Computational Neuroscience
 
 * A [video lecture series](https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz) by Liz Bradley on Nonlinear Dynamics: Mathematical and Computational Approaches. [Course page.](https://www.complexityexplorer.org/courses/94-nonlinear-dynamics-mathematical-and-computational-approaches-winter-spring-2019)
 
+
+#### _*Control Theory*_
+* [The coordination of movement: optimal feedback control and beyond](http://www.diedrichsenlab.org/pubs/TICS_2010.pdf)
+  <details>
+    <summary> Details!  </summary> 
+    Optimal control theory and its more recent extension, optimal feedback control theory, provide valuable insights into the flexible and task-dependent control of movements. Here, we focus on the problem of coordination, defined as movements that involve multiple effectors (muscles, joints or limbs). Optimal control theory makes quantitative predictions concerning the distribution of work across multiple effectors. Optimal feedback control theory further predicts variation in feedback control with changes in task demands and the correlation structure between different effectors. We highlight two crucial areas of research, hierarchical control and the problem of movement initiation, that need to be developed for an optimal feedback control theory framework to characterise movement coordination more fully and to serve as a basis for studying the neural mechanisms involved in voluntary motor control.
+
+  </details>
+
+
+
+
+
+
+
+
+
 ### Machine Learning 
 #### _*General Machine Learning*_
 * [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849)
