@@ -190,7 +190,49 @@ A collaborative list of resources for Computational Neuroscience
 
 ### Machine Learning 
 #### _*General Machine Learning*_
+
+* Recomended learning [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
+  <details>
+    <summary> Details!  </summary>  
+
+    Artificial intelligence (AI) has undergone a renaissance recently, making major progress in key domains such as vision, language, control, and decision-making. This has been due, in part, to cheap data and cheap compute resources, which have fit the natural strengths of deep learning. However, many defining characteristics of human intelligence, which developed under much different pressures, remain out of reach for current approaches. In particular, generalizing beyond one's experiences--a hallmark of human intelligence from infancy--remains a formidable challenge for modern AI. The following is part position paper, part review, and part unification. We argue that combinatorial generalization must be a top priority for AI to achieve human-like abilities, and that structured representations and computations are key to realizing this objective. Just as biology uses nature and nurture cooperatively, we reject the false choice between "hand-engineering" and "end-to-end" learning, and instead advocate for an approach which benefits from their complementary strengths. We explore how using relational inductive biases within deep learning architectures can facilitate learning about entities, relations, and rules for composing them. We present a new building block for the AI toolkit with a strong relational inductive bias--the graph network--which generalizes and extends various approaches for neural networks that operate on graphs, and provides a straightforward interface for manipulating structured knowledge and producing structured behaviors. We discuss how graph networks can support relational reasoning and combinatorial generalization, laying the foundation for more sophisticated, interpretable, and flexible patterns of reasoning. As a companion to this paper, we have released an open-source software library for building graph networks, with demonstrations of how to use them in practice.
+  </details>
+
+
+
+
+* [Proto-value Functions: A Laplacian Framework for Learning Representation and Control in Markov Decision Processes](https://jmlr.csail.mit.edu/papers/volume8/mahadevan07a/mahadevan07a.pdf)
+
+
+
+
+* [The why, how, and when of representations for complex systems](https://arxiv.org/abs/2006.02870)
+  <details>
+    <summary> Details!  </summary>  
+
+    Complex systems thinking is applied to a wide variety of domains, from neuroscience to computer science and economics. The wide variety of implementations has resulted in two key challenges: the progenation of many domain-specific strategies that are seldom revisited or questioned, and the siloing of ideas within a domain due to inconsistency of complex systems language. In this work we offer basic, domain-agnostic language in order to advance towards a more cohesive vocabulary. We use this language to evaluate each step of the complex systems analysis pipeline, beginning with the system and data collected, then moving through different mathematical formalisms for encoding the observed data (i.e. graphs, simplicial complexes, and hypergraphs), and relevant computational methods for each formalism. At each step we consider different types of \emph{dependencies}; these are properties of the system that describe how the existence of one relation among the parts of a system may influence the existence of another relation. We discuss how dependencies may arise and how they may alter interpretation of results or the entirety of the analysis pipeline. We close with two real-world examples using coauthorship data and email communications data that illustrate how the system under study, the dependencies therein, the research question, and choice of mathematical representation influence the results. We hope this work can serve as an opportunity of reflection for experienced complexity scientists, as well as an introductory resource for new researchers.
+  </details>
+
+
+
+
+
 * [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849)
+
+
+
+* [A deep learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2)
+  <details>
+    <summary> Details!  </summary>  
+
+    Systems neuroscience seeks explanations for how the brain implements a wide variety of perceptual, cognitive and motor tasks. Conversely, artificial intelligence attempts to design computational systems based on the tasks they will have to solve. In artificial neural networks, the three components specified by design are the objective functions, the learning rules and the architectures. With the growing success of deep learning, which utilizes brain-inspired architectures, these three designed components have increasingly become central to how we model, engineer and optimize complex artificial learning systems. Here we argue that a greater focus on these components would also benefit systems neuroscience. We give examples of how this optimization-based framework can drive theoretical and experimental progress in neuroscience. We contend that this principled perspective on systems neuroscience will help to generate more rapid progress.
+  </details>
+
+
+
+
+
+
 
 #### _*Autoencoders*_
 * Variational autoencoders used with dimensionality reduction. [VAE-SNE: a deep generative model for simultaneous dimensionality reduction and clustering](https://www.biorxiv.org/content/10.1101/2020.07.17.207993v1)
@@ -199,6 +241,42 @@ A collaborative list of resources for Computational Neuroscience
 
     Description: We introduce a method for both dimension reduction and clustering called VAE-SNE (variational autoencoder stochastic neighbor embedding). Our model combines elements from deep learning, probabilistic inference, and manifold learning to produce interpretable compressed representations while also readily scaling to tens-of-millions of observations. Unlike existing methods, VAE-SNE simultaneously compresses high-dimensional data and automatically learns a distribution of clusters within the data --- without the need to manually select the number of clusters. This naturally creates a multi-scale representation, which makes it straightforward to generate coarse-grained descriptions for large subsets of related observations and select specific regions of interest for further analysis.
   </details>
+
+#### _*Reinforcement Learning*_
+
+* [See book by Reinforcement Learning by Sutton and Barto](http://incompleteideas.net/book/RLbook2020.pdf)
+
+* [How teaching AI to be curious helps machines learn for themselves](https://www.theverge.com/2018/11/1/18051196/ai-artificial-intelligence-curiosity-openai-montezumas-revenge-noisy-tv-problem)
+
+ * [Deep active inference as variational policy gradients](https://arxiv.org/pdf/1907.03876.pdf)
+    <details>
+      <summary> Details!  </summary>  
+
+      Active Inference is a theory arising from theoretical neuroscience which casts action and planning as Bayesian inference problems to be solved by minimizing a single quantity — the variational free energy. The theory promises a unifying account of action and perception coupled with a biologically plausible process theory. However, despite these potential advantages, current implementations of Active Inference can only handle small policy and state–spaces and typically require the environmental dynamics to be known. In this paper we propose a novel deep Active Inference algorithm that approximates key densities using deep neural networks as flexible function approximators, which enables our approach to scale to significantly larger and more complex tasks than any before attempted in the literature. We demonstrate our method on a suite of OpenAIGym benchmark tasks and obtain performance comparable with common reinforcement learning baselines. Moreover, our algorithm evokes similarities with maximum-entropy reinforcement learning and the policy gradients algorithm, which reveals interesting connections between the Active Inference framework and reinforcement learning.
+    </details>
+
+* [Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition](https://arxiv.org/pdf/cs/9905014.pdf)
+
+
+* [Deep Reinforcement Learning and Its Neuroscientific Implications](https://www.sciencedirect.com/science/article/abs/pii/S0896627320304682)
+    <details>
+      <summary> Details!  </summary>  
+
+      The emergence of powerful artificial intelligence (AI) is defining new research directions in neuroscience. To date, this research has focused largely on deep neural networks trained using supervised learning in tasks such as image classification. However, there is another area of recent AI work that has so far received less attention from neuroscientists but that may have profound neuroscientific implications: deep reinforcement learning (RL). Deep RL offers a comprehensive framework for studying the interplay among learning, representation, and decision making, offering to the brain sciences a new set of research tools and a wide range of novel hypotheses. In the present review, we provide a high-level introduction to deep RL, discuss some of its initial applications to neuroscience, and survey its wider implications for research on brain and behavior, concluding with a list of opportunities for next-stage research.
+    </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
