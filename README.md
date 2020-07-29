@@ -55,6 +55,31 @@ A collaborative list of resources for Computational Neuroscience
 
 
 
+
+### Causality 
+
+* [Quasi-experimental causality in neuroscience and behavioural research](https://www.nature.com/articles/s41562-018-0466-5)
+  <details>
+    <summary> Details!  </summary>
+
+    In many scientific domains, causality is the key question. For example, in neuroscience, we might ask whether a medication affects perception, cognition or action. Randomized controlled trials are the gold standard to establish causality, but they are not always practical. The field of empirical economics has developed rigorous methods to establish causality even when randomized controlled trials are not available. Here we review these quasi-experimental methods and highlight how neuroscience and behavioural researchers can use them to do research that can credibly demonstrate causal effects.
+
+  </details>
+
+
+* [A Causal Network Analysis of Neuromodulation in the Cortico-Subcortical Limbic Network](https://www.cell.com/neuron/fulltext/S0896-6273(20)30466-9#.XwXvXEHciHI.twitter) applied to neurons. 
+  <details>
+    <summary> Details!  </summary>
+
+    Neural decoding and neuromodulation technologies hold great promise for treating mood and other brain disorders in next-generation therapies that manipulate functional brain networks. Here we perform a novel causal network analysis to decode multiregional communication in the primate mood processing network and determine how neuromodulation, short-burst tetanic microstimulation (sbTetMS), alters multiregional network communication. The causal network analysis revealed a mechanism of network excitability that regulates when a sender stimulation site communicates with receiver sites. Decoding network excitability from neural activity at modulator sites predicted sender-receiver communication, whereas sbTetMS neuromodulation temporarily disrupted sender-receiver communication. These results reveal specific network mechanisms of multiregional communication and suggest a new generation of brain therapies that combine neural decoding to predict multiregional communication with neuromodulation to disrupt multiregional communication.
+
+  </details>
+
+
+
+
+
+
 ### Dimensionality
 #### _*General Dimnesionality*_
 * [Towards the neural population doctrine](https://stat.columbia.edu/~cunningham/pdf/SaxenaCONB2019.pdf)
