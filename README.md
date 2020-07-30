@@ -167,7 +167,12 @@ A collaborative list of resources for Computational Neuroscience
 
 * Maximum likelihood estimation for neural data [slide deck](http://pillowlab.princeton.edu/teaching/statneuro2018/slides/slides07_encodingmodels.pdf) by Jonathan Pillow. A walk through of the concept and derivation.
 
+* [A Short Introduction to Bayesian Neural Networks](https://davidstutz.de/a-short-introduction-to-bayesian-neural-networks/)
+  <details>
+    <summary> Details!  </summary> 
 
+    With the rising success of deep neural networks, their reliability in terms of robustness (for example, against various kinds of adversarial examples) and confidence estimates becomes increasingly important. Bayesian neural networks promise to address these issues by directly modeling the uncertainty of the estimated network weights. In this article, I want to give a short introduction of training Bayesian neural networks, covering three recent approaches.
+  </details>
 
 
 
