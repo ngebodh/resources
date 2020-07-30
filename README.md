@@ -76,6 +76,13 @@ A collaborative list of resources for Computational Neuroscience
   </details>
 
 
+* [Advancing functional connectivity research from association to causation](https://www.nature.com/articles/s41593-019-0510-4)
+  <details>
+    <summary> Details!  </summary>
+
+    Cognition and behavior emerge from brain network interactions, such that investigating causal interactions should be central to the study of brain function. Approaches that characterize statistical associations among neural time series—functional connectivity (FC) methods—are likely a good starting point for estimating brain network interactions. Yet only a subset of FC methods (‘effective connectivity’) is explicitly designed to infer causal interactions from statistical associations. Here we incorporate best practices from diverse areas of FC research to illustrate how FC methods can be refined to improve inferences about neural mechanisms, with properties of causal neural interactions as a common ontology to facilitate cumulative progress across FC approaches. We further demonstrate how the most common FC measures (correlation and coherence) reduce the set of likely causal models, facilitating causal inferences despite major limitations. Alternative FC measures are suggested to immediately start improving causal inferences beyond these common FC measures.
+
+  </details>
 
 
 
