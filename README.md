@@ -278,6 +278,16 @@ A collaborative list of resources for Computational Neuroscience
 
     Description: We introduce a method for both dimension reduction and clustering called VAE-SNE (variational autoencoder stochastic neighbor embedding). Our model combines elements from deep learning, probabilistic inference, and manifold learning to produce interpretable compressed representations while also readily scaling to tens-of-millions of observations. Unlike existing methods, VAE-SNE simultaneously compresses high-dimensional data and automatically learns a distribution of clusters within the data --- without the need to manually select the number of clusters. This naturally creates a multi-scale representation, which makes it straightforward to generate coarse-grained descriptions for large subsets of related observations and select specific regions of interest for further analysis.
   </details>
+  
+  
+* Encoders for timeseries. [Deep reconstruction of strange attractors from time series](https://arxiv.org/pdf/2002.05909.pdf) 
+  <details>
+    <summary> Details!  </summary>  
+
+    Experimental measurements of physical systems often have a limited number of independent channels, causing essential dynamical variables to remain unobserved. However, many popular methods for unsupervised inference of latent dynamics from experimental data implicitly assume that the measurements have higher intrinsic dimensionality than the underlying system---making coordinate identification a dimensionality reduction problem. Here, we study the opposite limit, in which hidden governing coordinates must be inferred from only a low-dimensional time series of measurements. Inspired by classical techniques for studying the strange attractors of chaotic systems, we introduce a general embedding technique for time series, consisting of an autoencoder trained with a novel latent-space loss function. We show that our technique reconstructs the strange attractors of synthetic and real-world systems better than existing techniques, and that it creates consistent, predictive representations of even stochastic systems. We conclude by using our technique to discover dynamical attractors in diverse systems such as patient electrocardiograms, household electricity usage, and eruptions of the Old Faithful geyser---demonstrating diverse applications of our technique for exploratory data analysis.
+  </details>
+
+
 
 #### _*Reinforcement Learning*_
 
