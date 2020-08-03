@@ -387,7 +387,7 @@ A collaborative list of resources for Computational Neuroscience.
 
 * [Classic must-read neuroscience papers](https://www.sfn.org/about/history-of-neuroscience/classic-papers#Learning) suggested by SfN (Society for Neuroscience). Broken down by topic. 
 
-
+* [The Cost of Cortical Computation](http://www2.bcs.rochester.edu/sites/plennie/pdfs/Lennie03a.pdf) a breakdown of the energy cost of neural firing/spiking.
 
 
 ## Books 
