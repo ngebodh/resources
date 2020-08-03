@@ -23,6 +23,7 @@ A collaborative list of resources for Computational Neuroscience.
   * [Optimization for Modeling](#optimization-for-modeling)
   * [Bayesian Modeling](#bayesian-modeling)
   * [Linear and Non-Linear Systems](#linear-and-non-linear-systems)
+  * [Markov Processes](#markov-processes)
   * [Control Theory](#control-theory)  
 - [Machine Learning](#machine-learning)
   * [General Machine Learning](#general-machine-learning)
@@ -238,6 +239,22 @@ A collaborative list of resources for Computational Neuroscience.
 * A [video lecture series](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) by Steven Strongatz on Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering
 
 * A [video lecture series](https://www.youtube.com/playlist?list=PLF0b3ThojznQ9xUDm-EbgFAnzdbeDVuSz) by Liz Bradley on Nonlinear Dynamics: Mathematical and Computational Approaches. [Course page.](https://www.complexityexplorer.org/courses/94-nonlinear-dynamics-mathematical-and-computational-approaches-winter-spring-2019)
+
+
+
+
+
+#### _*Markov Processes*_
+
+* [Light intro to Markov Chains](https://towardsdatascience.com/introduction-to-markov-chains-50da3645a50d)
+
+* [Deeper intro to Hidden Markov Models](https://towardsdatascience.com/introduction-to-hidden-markov-models-cd2c93e6b781) with python implimentation
+
+* [Hidden Markov Model](http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017) example with python implimentation using sklearn
+
+
+
+
 
 
 #### _*Control Theory*_
