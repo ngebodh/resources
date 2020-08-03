@@ -1,5 +1,5 @@
 # List of Resources
-A collaborative list of resources for Computational Neuroscience
+A collaborative list of resources for Computational Neuroscience. 
 
 
 
@@ -7,6 +7,37 @@ A collaborative list of resources for Computational Neuroscience
 
 
 ## Interesting Papers/ Articles/ Blog Posts:
+
+## Contents
+
+- [Information Theory](#information-theory)
+- [Entropy](#entropy)
+- [Noise](#noise)
+- [Brain Oscillations](#brain-oscillations)
+- [Causality](#causality)
+- [Dimensionality](#dimensionality)
+  * [General Dimnesionality](#general-dimnesionality)
+  * [Non-Linear Dimensionality Reduction](#non-linear-dimensionality-reduction)
+- [Modeling](#dimensionality)
+  * [General Modeling](#general-modeling)
+  * [Optimization for Modeling](#optimization-for-modeling)
+  * [Bayesian Modeling](#bayesian-modeling)
+  * [Linear and Non-Linear Systems](#linear-and-non-linear-systems)
+  * [Control Theory](#control-theory)  
+- [Machine Learning](#machine-learning)
+  * [General Machine Learning](#general-machine-learning)
+  * [Autoencoders](#autoencoders)
+  * [Reinforcement Learning](#reinforcement-learning)
+- [General Neuroscience](#general-neuroscience) 
+- [Books](#books) 
+- [Datasets](#datasets) 
+- [Videos](#videos) 
+- [Jobs](#jobs) 
+- [Memes](#memes) 
+
+<!-- toc -->
+
+
 
 
 
@@ -200,7 +231,7 @@ A collaborative list of resources for Computational Neuroscience
 
 
 
-#### _*Non/Linear Systems*_
+#### _*Linear and Non-Linear Systems*_
 
 * [Nonlinear Dynamics and Chaos by Steven Strogatz](http://arslanranjha.weebly.com/uploads/4/8/9/3/4893701/nonlinear-dynamics-and-chaos-strogatz.pdf) applied to physics, bio, chem, and engineering. Recommended by Bingni Brutton and Maria Geffen. 
 
