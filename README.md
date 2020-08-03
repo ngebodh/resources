@@ -452,4 +452,8 @@ List of job boards that update often and have neuro related jobs.
 
 ## Memes
 
-<img src="https://memegenerator.net/img/instances/26848932/occams-razor-the-simplest-explanation-is-almost-always-somebody-screwed-up.jpg" width="200" height="200" />
+<img src="https://memegenerator.net/img/instances/26848932/occams-razor-the-simplest-explanation-is-almost-always-somebody-screwed-up.jpg" width="300" height="300" />
+
+
+
+
