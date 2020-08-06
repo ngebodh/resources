@@ -116,8 +116,13 @@ A collaborative list of resources for Computational Neuroscience.
 
   </details>
 
+* **VIDEO** A series of talks on causality in machine learning and how to think causally with machine learning. [Frontiers in Machine Learning: Big Ideas in Causality and Machine Learning](https://www.microsoft.com/en-us/research/video/frontiers-in-machine-learning-big-ideas-in-causality-and-machine-learning/)
+  <details>
+    <summary> Details!  </summary>
 
+    Causal relationships are stable across distribution shifts. Models based on causal knowledge have the potential to generalize to unseen domains and offer counterfactual predictions: how do outcomes change if a certain feature is changed in the real world. In recent years, machine learning methods based on causal reasoning have led to advances in out-of-domain generalization, fairness and explanation, and robustness to data selection biases. ¬ In this session, we discuss big ideas at the intersections of causal inference and machine learning towards building stable predictive models and discovering causal insights from data.
 
+  </details>
 
 ### Dimensionality
 #### _*General Dimnesionality*_
