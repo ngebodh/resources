@@ -394,6 +394,14 @@ A collaborative list of resources for Computational Neuroscience.
 
 * [The Cost of Cortical Computation](http://www2.bcs.rochester.edu/sites/plennie/pdfs/Lennie03a.pdf) a breakdown of the energy cost of neural firing/spiking.
 
+* [Computational Neuroscience: Mathematical and Statistical Perspectives](https://www.annualreviews.org/doi/full/10.1146/annurev-statistics-041715-033733)
+    <details>
+      <summary> Details!  </summary>  
+
+      Mathematical and statistical models have played important roles in neuroscience, especially by describing the electrical activity of neurons recorded individually, or collectively across large networks. As the field moves forward rapidly, new challenges are emerging. For maximal effectiveness, those working to advance computational neuroscience will need to appreciate and exploit the complementary strengths of mechanistic theory and the statistical paradigm.
+    </details>
+    
+    
 
 ## Books 
 
@@ -409,7 +417,7 @@ A collaborative list of resources for Computational Neuroscience.
 
 * [Reinforcement Learning by Sutton and Barto](http://incompleteideas.net/book/RLbook2020.pdf) is the main book on reinforcement learning that takes a deep dive into the topic.
 
-
+* Kass et al's work on a statistical approach to analyzing neural data. [Analysis of Neural Data](http://www.stat.cmu.edu/~kass/sam/all/heidiAPR12/all.pdf)
 
 
 ## Datasets
@@ -444,6 +452,8 @@ A collaborative list of resources for Computational Neuroscience.
 
   </details>
 
+
+* [The 2017 Fisher Awards and Lecture given by Robert Kass](https://youtu.be/P_KV1ONiLE4?t=1598)
 
 ## Jobs
 List of job boards that update often and have neuro related jobs. 
